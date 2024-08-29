@@ -1,7 +1,7 @@
 name: marine_compass
 description: "A Horizontal Compass."
-version: 0.0.1
-homepage:
+version: 1.0.0
+homepage: https://github.com/Marinethinking/marine_compass
 
 environment:
   sdk: ^3.5.0
